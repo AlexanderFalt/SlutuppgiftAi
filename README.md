@@ -28,9 +28,6 @@ The solution would be available as a mobile/web app where users connect their sm
 4. Track progress over time
 
 Users: Homeowners and renters with access to usage data.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Smart_meter.jpg" width="300">
-
 ## Data sources and AI methods
 
 * Data: Smart meter APIs (e.g. Green Button), appliance catalogs (e.g. EnergyStar), weather data
@@ -56,12 +53,4 @@ Users: Homeowners and renters with access to usage data.
 * Add community comparison and gamification
 * Incorporate solar/battery optimization
 
-## Acknowledgments
-
-* Inspired by [Google Nest Energy Shift](https://blog.google/products/thermostat/energy-shift-savings/)
-* Image: [Smart Meter - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smart_meter.jpg) / CC BY-SA 3.0
-* Data source reference: [Green Button Data](https://www.greenbuttondata.org/)
-
 ---
-
-Building AI course project
