@@ -1,7 +1,5 @@
 
-# Project Title
-
-AI-Based Personal Energy Advisor
+# AI-Based Personal Energy Advisor
 
 Final project for the Building AI course
 
