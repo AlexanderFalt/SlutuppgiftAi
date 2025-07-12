@@ -28,6 +28,7 @@ The solution would be available as a mobile/web app where users connect their sm
 4. Track progress over time
 
 Users: Homeowners and renters with access to usage data.
+
 ## Data sources and AI methods
 
 * Data: Smart meter APIs (e.g. Green Button), appliance catalogs (e.g. EnergyStar), weather data
@@ -53,4 +54,8 @@ Users: Homeowners and renters with access to usage data.
 * Add community comparison and gamification
 * Incorporate solar/battery optimization
 
+## Acknowledgments
+
+* Special thanks to the team at Elements of AI which inspired me to come up with this project!
 ---
+
